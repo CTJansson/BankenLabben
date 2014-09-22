@@ -1,0 +1,6 @@
+c:\users\ctjansson\documents\visual studio 2012\Projects\Klass Labb 16e sep\Klass Labb 16e sep\bin\Debug\Klass Labb 16e sep.exe.config
+c:\users\ctjansson\documents\visual studio 2012\Projects\Klass Labb 16e sep\Klass Labb 16e sep\bin\Debug\Klass Labb 16e sep.exe
+c:\users\ctjansson\documents\visual studio 2012\Projects\Klass Labb 16e sep\Klass Labb 16e sep\bin\Debug\Klass Labb 16e sep.pdb
+c:\users\ctjansson\documents\visual studio 2012\Projects\Klass Labb 16e sep\Klass Labb 16e sep\obj\Debug\Klass Labb 16e sep.csprojResolveAssemblyReference.cache
+c:\users\ctjansson\documents\visual studio 2012\Projects\Klass Labb 16e sep\Klass Labb 16e sep\obj\Debug\Klass Labb 16e sep.exe
+c:\users\ctjansson\documents\visual studio 2012\Projects\Klass Labb 16e sep\Klass Labb 16e sep\obj\Debug\Klass Labb 16e sep.pdb
